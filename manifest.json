@@ -1,0 +1,6 @@
+{
+  "name": "Sticky Reactions",
+  "description": "Keep the reaction picker open after reacting",
+  "authors": [{ "name": "you" }],
+  "main": "index.js"
+}
